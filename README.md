@@ -1,2 +1,2 @@
 # MyFirstRepository
-Hello My Name is JIWON
+Hello My name is JIWON
